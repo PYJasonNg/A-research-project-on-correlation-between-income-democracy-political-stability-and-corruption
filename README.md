@@ -3,3 +3,4 @@
 Inside the repository are the following files:
 - The essay itself
 - The Stata do-file
+- The dataset that was compiled and analysed
